@@ -1,0 +1,2 @@
+# CeleryTemplate
+Template for Celery
